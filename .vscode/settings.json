@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "array": "c",
+        "__locale": "c",
+        "bitset": "c",
+        "__bit_reference": "c",
+        "unordered_map": "c",
+        "ratio": "c",
+        "sstream": "c",
+        "string.h": "c",
+        "ostream": "c"
+    }
+}
